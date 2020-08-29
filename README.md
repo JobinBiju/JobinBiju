@@ -16,7 +16,7 @@
 ### Favourite Frameworks  👷
 ---
 |<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width=60> |
-|:---:|:---:|:---:|
+|:---:|
 
 ### My Stats
 ---
