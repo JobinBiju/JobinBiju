@@ -8,6 +8,21 @@
   </samp>
 </p>
 
+### Favourite Programming Languages 👨‍💻
+---
+|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/dart.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/python.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/javascript.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/c.svg" width=60> |
+|:---:|:---:|:---:|:---:|
+
+### Favourite Frameworks  👷
+---
+|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flask.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/bootstrap.png" width=60> | 
+|:---:|:---:|:---:|
+
+### My Stats
+---
+<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&show_icons=true&hide_border=true" />
+
+
 <!--
 **JobinBiju/JobinBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
