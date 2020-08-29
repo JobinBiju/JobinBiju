@@ -10,12 +10,12 @@
 
 ### Favourite Programming Languages 👨‍💻
 ---
-|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/dart.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/python.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/javascript.svg" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/c.svg" width=60> |
+|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
 ### Favourite Frameworks  👷
 ---
-|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flask.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/bootstrap.png" width=60> | 
+|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width=60> |
 |:---:|:---:|:---:|
 
 ### My Stats
