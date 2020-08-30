@@ -13,9 +13,14 @@
 |<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
-### Favourite Frameworks  👷
+### Favourite Frameworks 👷
 ---
 |<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width=60> |
+|:---:|:---:|
+
+### Design tools I use 🎨
+---
+|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.png" width=60> |
 |:---:|:---:|
 
 ### My Stats
