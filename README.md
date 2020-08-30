@@ -1,4 +1,4 @@
-### Howdy Devs 👋
+### Howdy Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/working.gif" width=300>
