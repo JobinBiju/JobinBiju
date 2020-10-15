@@ -26,8 +26,8 @@
 ### My Stats
 ---
 <img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&show_icons=true&hide_border=true" />
----
-<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&layout=compact&hide=html%22" />
+
+<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&layout=compact&hide=html%22&hide_border=true" />
 
 <!--
 **JobinBiju/JobinBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
