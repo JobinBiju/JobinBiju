@@ -27,4 +27,4 @@
 
 <img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&layout=compact&hide=html%22&hide_border=true" />
+<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&layout=compact&hide=html%22&hide_border=true&theme=vue" />
