@@ -9,23 +9,39 @@
 </p>
 
 ### Favourite Programming Languages 👨‍💻
+
 <br>
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="40px" />  
-<img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="40px" />
-<img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="40px" />
-<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="40px" />
+<img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="50px" />  
+<img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="50px" />
+<img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="50px" />
+<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="50px" />
 </div>
+<br>
+<br>
+
 
 ### Favourite Frameworks 👷
 
-|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="40px"> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="40px"> |
-|:---:|:---:|
+<br>
+<div style="display: flex; justify-content: space-around">
+<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="50px" />  
+<img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="50px" />
+</div>
+<br>
+<br>
+
 
 ### Design tools I use 🎨
 
-|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="40px"> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="40px"> |
-|:---:|:---:|
+<br>
+<div style="display: flex; justify-content: space-around">
+<img align="left" alt="Photoshop" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="50px" />  
+<img align="left" alt="Illustrator" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="50px" />
+</div>
+<br>
+<br>
+
 
 ### My Stats
 
