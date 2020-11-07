@@ -1,4 +1,4 @@
-### Howdy Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Howdy Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/working.gif" width=300>
@@ -9,18 +9,22 @@
 </p>
 
 ### Favourite Programming Languages 👨‍💻
-
-|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width=60> |
-|:---:|:---:|:---:|:---:|
+<br>
+<div style="display: flex; justify-content: space-around">
+<img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="40px" />  
+<img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="40px" />
+<img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="40px" />
+<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="40px" />
+</div>
 
 ### Favourite Frameworks 👷
 
-|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width=60> |
+|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="40px"> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="40px"> |
 |:---:|:---:|
 
 ### Design tools I use 🎨
 
-|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.png" width=60> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.png" width=60> |
+|<img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="40px"> | <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="40px"> |
 |:---:|:---:|
 
 ### My Stats
