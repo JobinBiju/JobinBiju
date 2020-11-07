@@ -37,7 +37,7 @@
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Photoshop" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="50px" />  
 <img align="left" alt="Illustrator" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="50px" />
-<img align="left" alt="Figma" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/figma.svg" width="50px" />
+<img align="left" alt="Figma" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/figma.png" width="50px" />
 </div>
 
 <br />
