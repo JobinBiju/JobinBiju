@@ -19,7 +19,6 @@
 <br />
 <br />
 
----
 
 
 ### Known Frameworks
@@ -31,7 +30,7 @@
 <br />
 <br />
 
----
+
 
 ### Design tools I use
 <div style="display: flex; justify-content: space-around">
@@ -43,10 +42,11 @@
 <br />
 <br />
 
----
+
 
 ### Get in touch
 
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
@@ -54,7 +54,7 @@
 <br />
 <br />
 
----
+
 
 ### My Stats
 
@@ -66,7 +66,7 @@
 <br />
 
 
-
+[whatsapp]: https://wa.me/918281392010/
 [blog]: https://geekflow.in/
 [instagram]: https://www.instagram.com/jobz.sneezer/
 [linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179
