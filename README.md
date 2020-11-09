@@ -18,6 +18,7 @@
 
 <br />
 <br />
+<br />
 
 
 
@@ -27,6 +28,7 @@
 <img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="50px" />
 </div>
 
+<br />
 <br />
 <br />
 
@@ -41,6 +43,7 @@
 
 <br />
 <br />
+<br />
 
 
 
@@ -51,7 +54,6 @@
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 
-<br />
 <br />
 
 
