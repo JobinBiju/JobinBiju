@@ -60,9 +60,9 @@
 
 ### My Stats
 
-<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img align="left" alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=nightowl" />
+<img align="left" alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark" />
 
 <br />
 <br />
