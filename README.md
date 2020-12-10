@@ -10,10 +10,10 @@
 
 ### Known Programming Languages
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="50px" />  
-<img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="50px" />
-<img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="50px" />
-<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="50px" />
+<img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="40px" />  
+<img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="40px" />
+<img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="40px" />
+<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="40px" />
 </div>
 
 <br />
@@ -24,8 +24,8 @@
 
 ### Known Frameworks
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="50px" />  
-<img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="50px" />
+<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="40px" />  
+<img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="40px" />
 </div>
 
 <br />
@@ -36,9 +36,9 @@
 
 ### Design tools I use
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="Photoshop" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="50px" />  
-<img align="left" alt="Illustrator" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="50px" />
-<img align="left" alt="Figma" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/figma.png" width="50px" />
+<img align="left" alt="Photoshop" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="40px" />  
+<img align="left" alt="Illustrator" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="40px" />
+<img align="left" alt="Figma" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/figma.png" width="40px" />
 </div>
 
 <br />
