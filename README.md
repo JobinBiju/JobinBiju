@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/working.gif" width=300>
   <br /><br />
   <samp>
-    I'm <a href="https://github.com/JobinBiju/">Jobin</a> currently a Third Year Computer Science and Engineering student at <a href="http://www.rit.ac.in/">RIT, Kottayam :school: </a> and an aspiring software & hardware developer:computer:. Interested in working on IoT projects and Application development using Flutter. I'm always curious about new technologies and love to control hardware with software and frameworks.
+    I'm <a href="https://www.linkedin.com/in/jobin-biju-55b034179/">Jobin</a> currently a Third Year Computer Science and Engineering student at <a href="http://www.rit.ac.in/">RIT, Kottayam :school: </a> and an aspiring software & hardware developer:computer:. Interested in working on IoT projects and Application development using Flutter. I'm always curious about new technologies and love to control hardware with software and frameworks.
   </samp>
 </p>
 
@@ -14,6 +14,7 @@
 <img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="40px" />
 <img align="left" alt="Javascript" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/javascript.png" width="40px" />
 <img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/c.png" width="40px" />
+<img align="left" alt="C++" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/php.svg" width="40px" />
 </div>
 
 <br />
