@@ -23,7 +23,7 @@
 
 
 
-### Known Frameworks
+### Known Frameworks/Tools
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Flutter" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="40px" />  
 <img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="40px" />
