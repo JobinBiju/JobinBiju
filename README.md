@@ -9,6 +9,7 @@
 </p>
 
 ### Known Programming Languages
+
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Dart" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/dart.svg" width="40px" />  
 <img align="left" alt="Python" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/python.png" width="40px" />
@@ -21,9 +22,8 @@
 <br />
 <br />
 
-
-
 ### Known Frameworks/Tools
+
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Flutter" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/flutter.png" width="40px" />  
 <img align="left" alt="Arduino" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/arduino.png" width="40px" />
@@ -33,9 +33,8 @@
 <br />
 <br />
 
-
-
 ### Design tools I use
+
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Photoshop" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/photoshop.svg" width="40px" />  
 <img align="left" alt="Illustrator" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/illustrator.svg" width="40px" />
@@ -46,18 +45,14 @@
 <br />
 <br />
 
-
-
 ### Get in touch
 
-[<img align="left" alt="holisitc_developer | Whatsapp" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/instagram.svg" />][instagram]
-[<img align="left" alt="holisitc_developer | Website" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/link.png" />][blog]
+[<img align="left" alt="Jobin_Biju | Whatsapp" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Jobin_BIju | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jobin_BIju | Instagram" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/instagram.svg" />][instagram]
+[<img align="left" alt="Jobin_BIju | Website" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/link.png" />][website]
 
 <br />
-
-
 
 ### My Stats
 
@@ -68,8 +63,8 @@
 <br />
 <br />
 
-
 [whatsapp]: https://wa.me/918281392010/
 [blog]: https://geekflow.in/
+[website]: https://jobinbiju.github.io/Portfolio/
 [instagram]: https://www.instagram.com/jobz.sneezer/
 [linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179
