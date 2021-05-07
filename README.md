@@ -70,7 +70,7 @@
 <summary>
   <b>Languages Used</b>
 </summary>
-<p align="center"> <img alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<p align="center"> <img alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
 </details>
 
 <br />
