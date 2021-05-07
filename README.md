@@ -57,8 +57,6 @@
 
 ### My Stats
 
-<br />
-
 <details>
 <summary>
   <b>Github Stats</b>
