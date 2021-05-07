@@ -53,12 +53,25 @@
 [<img align="left" alt="Jobin_BIju | Website" width="22px" src="https://raw.githubusercontent.com/JobinBiju/JobinBiju/master/images/link.png" />][website]
 
 <br />
+<br />
 
 ### My Stats
 
-<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+<br />
 
-<img align="left" alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<details>
+<summary>
+  <b>Github Stats</b>
+</summary>
+<p align="center"> <img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+</details>
+<br />
+<details>
+<summary>
+  <b>Languages Used</b>
+</summary>
+<p align="center"> <img align="left" alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+</details>
 
 <br />
 <br />
