@@ -28,6 +28,7 @@
 <img align="left" alt="Flutter" src="images/flutter.png" width="40px" />  
 <img align="left" alt="Arduino" src="images/arduino.png" width="40px" />
 <img align="left" alt="Firebase" src="images/firebase.png" width="40px" />
+<img align="left" alt="Django" src="images/django.png" width="40px" />
 </div>
 
 <br />
