@@ -29,9 +29,8 @@
 <img align="left" alt="Arduino" src="images/arduino.png" width="40px" />
 <img align="left" alt="Firebase" src="images/firebase.png" width="40px" />
 <img align="left" alt="Node.js" src="images/node-js.png" width="70px" />
-<img align="left" alt="Wordpress" src="images/wordpress.png" width="40px" />
+<img align="left" alt="Wordpress" src="images/react.png" width="40px" />
 <img align="left" alt="git" src="images/git.png" width="40px" />
-<img align="left" alt="svelte" src="images/svelte.png" width="40px" />
 </div>
 
 <br />
