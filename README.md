@@ -1,4 +1,4 @@
-### Howdy Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Howdy Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 <p align="center">
   <img src="images/working.gif" width=300>
