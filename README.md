@@ -4,7 +4,7 @@
   <img src="images/working.gif" width=300>
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/jobin-biju-55b034179/">Jobin</a>, an aspiring software & hardware developer:computer:. Interested in working on Fontend Dev, IoT projects and Application Dev using Flutter. I'm always curious about new technologies and love to build awesome user experiences with software & frameworks.
+    I'm <a href="https://www.linkedin.com/in/jobin-biju-55b034179/">Jobin</a>, an aspiring software & hardware developer:computer:. Interested in working on Fontend Dev, IoT and Application Dev using Flutter. I'm always curious about new technologies and love to build awesome user experiences with software & frameworks.
   </samp>
 </p>
 
