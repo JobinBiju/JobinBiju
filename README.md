@@ -4,7 +4,7 @@
   <img src="images/working.gif" width=300>
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/jobin-biju-55b034179/">Jobin</a> currently a final Year Computer Science and Engineering student at <a href="http://www.rit.ac.in/">RIT, Kottayam :school: </a> and an aspiring software & hardware developer:computer:. Interested in working on IoT projects and Application development using Flutter. I'm always curious about new technologies and love to control hardware with software and frameworks.
+    I'm <a href="https://www.linkedin.com/in/jobin-biju-55b034179/">Jobin</a>, an aspiring software & hardware developer:computer:. Interested in working on Fontend Dev, IoT projects and Application Dev using Flutter. I'm always curious about new technologies and love to build awesome user experiences with software & frameworks.
   </samp>
 </p>
 
