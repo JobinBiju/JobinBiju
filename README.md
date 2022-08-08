@@ -8,21 +8,21 @@
   </samp>
 </p>
 
-### Known Programming Languages
+### Programming Languages
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Dart" src="images/dart.svg" width="40px" />  
 <img align="left" alt="Python" src="images/python.png" width="40px" />
 <img align="left" alt="Javascript" src="images/javascript.png" width="40px" />
 <img align="left" alt="C++" src="images/c.png" width="40px" />
-<img align="left" alt="C++" src="images/php.svg" width="40px" />
+<img align="left" alt="C++" src="images/typescript.png" width="40px" />
 </div>
 
 <br />
 <br />
 <br />
 
-### Known Frameworks/Tools
+### Frameworks/Tools
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Flutter" src="images/flutter.png" width="40px" />  
@@ -31,6 +31,8 @@
 <img align="left" alt="Node.js" src="images/node-js.png" width="70px" />
 <img align="left" alt="Wordpress" src="images/react.png" width="40px" />
 <img align="left" alt="git" src="images/git.png" width="40px" />
+<img align="left" alt="git" src="images/prisma.png" width="40px" />
+<img align="left" alt="git" src="images/railway.svg" width="40px" />
 </div>
 
 <br />
