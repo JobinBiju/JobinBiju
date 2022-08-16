@@ -63,26 +63,17 @@
 
 ### My Stats
 
-<details>
-<summary>
-  <b>Github Stats</b>
-</summary>
 <p align="center"> <img alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
-</details>
 
-<details>
-<summary>
-  <b>Languages Used</b>
-</summary>
+
 <p align="center"> <img alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
-</details>
 
 <br />
 <br />
-
 
 [whatsapp]: https://wa.me/918281392010/
-[website]: https://jobinbiju.me/
+[website]: https://jobin-biju.vercel.app/
 [instagram]: https://www.instagram.com/jobz.sneezer/
 [linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179
+
 ![](https://hit.yhype.me/github/profile?user_id=43461167)
