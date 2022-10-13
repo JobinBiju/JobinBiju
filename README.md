@@ -59,9 +59,6 @@
 [<img align="left" alt="Jobin_BIju | Website" width="22px" src="images/link.png" />][website]
 
 <br />
-
-[![Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)
-
 <br />
 
 ### My Stats
@@ -72,6 +69,11 @@
 
 <p align="left"> <img alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=github_dark" />
 
+<br />
+<br />
+  
+[![Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)
+  
 <br />
 <br />
 
