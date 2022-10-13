@@ -60,6 +60,9 @@
 
 <br />
 <br />
+[![@blairripper234's Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)
+<br />
+<br />
 
 ### My Stats
 
