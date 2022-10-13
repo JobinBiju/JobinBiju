@@ -59,9 +59,9 @@
 [<img align="left" alt="Jobin_BIju | Website" width="22px" src="images/link.png" />][website]
 
 <br />
-<br />
-[![@blairripper234's Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)
-<br />
+
+[![Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)
+
 <br />
 
 ### My Stats
