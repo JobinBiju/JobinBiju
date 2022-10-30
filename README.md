@@ -29,7 +29,7 @@
 <img align="left" alt="Arduino" src="images/arduino.png" width="40px" />
 <img align="left" alt="Firebase" src="images/firebase.png" width="40px" />
 <img align="left" alt="Node.js" src="images/node-js.png" width="70px" />
-<img align="left" alt="Next Js" src="images/nextjs.png" width="40px" />
+<img align="left" alt="Next Js" src="images/nextjs.png" width="100px" />
 <img align="left" alt="Astro" src="images/astro.png" width="40px" />
 <img align="left" alt="git" src="images/git.png" width="40px" />
 <img align="left" alt="prisma" src="images/prisma.png" width="40px" />
