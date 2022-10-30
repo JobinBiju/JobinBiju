@@ -30,9 +30,9 @@
 <img align="left" alt="Firebase" src="images/firebase.png" width="40px" />
 <img align="left" alt="Node.js" src="images/node-js.png" width="70px" />
 <img align="left" alt="Next Js" src="images/nextjs.png" width="40px" />
+<img align="left" alt="Astro" src="images/astro.png" width="40px" />
 <img align="left" alt="git" src="images/git.png" width="40px" />
 <img align="left" alt="prisma" src="images/prisma.png" width="40px" />
-<img align="left" alt="railway" src="images/railway.svg" width="40px" />
 </div>
 
 <br />
@@ -83,3 +83,4 @@
 [linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179
 
 ![](https://hit.yhype.me/github/profile?user_id=43461167)
+
