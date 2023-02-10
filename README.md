@@ -13,7 +13,7 @@
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Dart" src="images/dart.svg" width="40px" />  
 <img align="left" alt="Python" src="images/python.png" width="40px" />
-<img align="left" alt="Javascript" src="images/javascript.png" width="40px" />
+<img align="left" alt="Go" src="images/go.png" width="90px" />
 <img align="left" alt="C++" src="images/c.png" width="40px" />
 <img align="left" alt="C++" src="images/typescript.png" width="40px" />
 </div>
@@ -29,7 +29,6 @@
 <img align="left" alt="Arduino" src="images/arduino.png" width="40px" />
 <img align="left" alt="Firebase" src="images/firebase.png" width="40px" />
 <img align="left" alt="Node.js" src="images/node-js.png" width="70px" />
-<img align="left" alt="Go" src="images/go.png" width="90px" />
 <img align="left" alt="Next Js" src="images/nextjs.png" width="80px" />
 <img align="left" alt="Astro" src="images/astro.png" width="40px" />
 <img align="left" alt="git" src="images/git.png" width="40px" />
