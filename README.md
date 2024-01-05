@@ -63,7 +63,7 @@
 
 ### My Stats
 
-<p align="left"> <img alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=false"/>
+<p align="left"> <img alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <br/>
 
