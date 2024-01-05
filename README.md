@@ -4,7 +4,7 @@
   <img src="images/working.gif" width=300>
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/jobinbiju/">Jobin</a>, an aspiring software & hardware developer:computer:. Interested in working on Fontend Dev, IoT and Application Dev using Flutter. I'm always curious about new technologies and love to build awesome user experiences with software & frameworks.
+    I'm Jobin Biju 👨‍💻, a passionate software developer specializing in full-stack web and mobile development 🌐📱. My experience spans across Hoomans Co., Kaimly Technologies, Spotix, and Aion Creative Wings, where I've excelled in creating user-friendly applications and efficient backend solutions. I'm always eager to explore new technologies 🚀 and committed to delivering innovative software experiences 🛠️.
   </samp>
 </p>
 
