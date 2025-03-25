@@ -11,11 +11,10 @@
 ### Programming Languages
 
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="Dart" src="images/dart.svg" width="40px" />  
-<img align="left" alt="Python" src="images/python.png" width="40px" />
 <img align="left" alt="Go" src="images/go.png" width="90px" />
-<img align="left" alt="C++" src="images/c.png" width="40px" />
+<img align="left" alt="Dart" src="images/dart.svg" width="40px" />  
 <img align="left" alt="C++" src="images/typescript.png" width="40px" />
+<img align="left" alt="C++" src="images/c.png" width="40px" />
 </div>
 
 <br />
@@ -79,8 +78,8 @@
 
 [whatsapp]: https://wa.me/918281392010/
 [website]: https://jobinbiju.me/
-[instagram]: https://www.instagram.com/j_o.b_z/
-[linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179
+[instagram]: https://www.instagram.com/wayfarer.whimsy/
+[linkedin]: https://www.linkedin.com/in/jobinbiju
 
 ![](https://hit.yhype.me/github/profile?user_id=43461167)
 
