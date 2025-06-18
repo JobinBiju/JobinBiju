@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Go" src="images/go.png" width="90px" />
-<img align="left" alt="Go" src="images/swift.png" width="90px" />
+<img align="left" alt="Go" src="images/swift.png" width="40px" />
 <img align="left" alt="Dart" src="images/dart.svg" width="40px" />  
 <img align="left" alt="C++" src="images/typescript.png" width="40px" />
 <img align="left" alt="C++" src="images/c.png" width="40px" />
